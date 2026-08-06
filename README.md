@@ -25,7 +25,7 @@ A simple, fast, and responsive typing speed test built with **HTML**, **CSS**, a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com//js-typing-speed.git
+   git clone https://github.com/dimas-renanda/js-typing-speed.git
    ```
 
 2. Open the project folder.
