@@ -39,7 +39,7 @@ No installation or dependencies are required.
 ```text
 Typing-Speed-Test/
 ├── index.html
-├── 
-├── 
+├── CHANGELOG.md
+├── .last-updated
 └── README.md
 ```
